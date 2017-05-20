@@ -65,7 +65,7 @@ The unique internal system identifier for the Location.
 getHubs()
 ---------
 
-The list of Hubs for this Location. Currently only Hub can be installed into a Location, thought this API returns a List to allow for future expandability.
+The list of Hubs for this Location. Currently only Hub can be installed into a Location, though this API returns a List to allow for future expandability.
 
 **Signature:**
     ``List<Hub> getHubs()``
